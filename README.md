@@ -2,6 +2,8 @@
 
 Evaluating Integrated Positional Encoding from mip-NeRF on 2D image reconstruction
 
+![multiscale](https://github.com/Jorgeromeu/mip-NeRF2D/assets/40536127/f484ce63-0b75-4331-bd01-d8efcd4e3b34)
+
 ## Repository structure
 
 Code is intended to run with `wandb`. The wandb project name can be configured in `wandb_util.py`
